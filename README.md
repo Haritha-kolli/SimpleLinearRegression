@@ -1,6 +1,9 @@
 # SimpleLinearRegression
-A simple python program that implements linear regression model
+A simple python program that implements linear regression model. 
 
+The program uses LinearRegression from sklearn.linear_model  and fitted the model to our train data.
+
+We used variance_inflation_factor from statsmodels.stats.outliers_influence  to calculate the VIF 
 
 Dataset characteristics
 	
